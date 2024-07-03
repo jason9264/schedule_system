@@ -1,0 +1,5 @@
+CSC 216,Software Development Fundamentals,601,3,jctetter,A
+CSC 217,Software Development Fundamentals Lab,601,1,sesmith5,A
+CSC 230,C and Software Tools,001,3,dbsturgi,MW,1145,1300
+Execrise,UMTWHF,800,900,Cardio Days
+CSC 226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,MWF,935,1025

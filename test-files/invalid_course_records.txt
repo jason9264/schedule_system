@@ -1,0 +1,25 @@
+001,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC216,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC a216,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSCSC 16,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+ 16,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC 16,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC 2167,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC 216,001,3,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,3,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,abc,3,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,0,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,6,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,3,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MW,1445
+CSC 216,Software Development Fundamentals,01,3,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,3,,MW,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MWA,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,A,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MW,267,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MW,1445,1330
+CSC 216,Software Development Fundamentals,001,3,sesmith5,,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MTWHT,1330,1445
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MTWH,1330,1445,extra

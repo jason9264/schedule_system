@@ -1,0 +1,4 @@
+CSC 116,Intro to Programming - Java,003,3,spbalik,MW,1250,1440
+Exercise,UMTHFS,800,900,Cardio with rest day on Wednesday.
+CSC 216,Software Development Fundamentals,001,3,sesmith5,MW,1330,1445
+CSC 216,Software Development Fundamentals,601,3,jctetter,A
